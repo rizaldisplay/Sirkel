@@ -15,15 +15,15 @@ type NFTItem = {
 };
 
 const nftData: NFTItem[] = [
-    { id: 1, image: '/assets/art/art1.png', artist: '@Johny', title: 'White Cylinders', bid: 0.005, category: 'Art' },
-    { id: 2, image: '/assets/sport/sport1.png', artist: '@Johny', title: 'Minaret', bid: 0.005, category: 'Sport' },
-    { id: 3, image: '/assets/photography/photo1.png', artist: '@Johny', title: 'Gradient Sphere', bid: 0.005, category: 'Photography' },
-    { id: 4, image: '/assets/art/art2.png', artist: '@Johny', title: 'Geometric Play', bid: 0.005, category: 'Art' },
-    { id: 5, image: '/assets/photography/photo2.png', artist: '@Johny', title: 'Reflection', bid: 0.005, category: 'Photography' },
-    { id: 6, image: '/assets/art/art3.png', artist: '@Johny', title: 'Veiled Light', bid: 0.005, category: 'Art' },
-    { id: 7, image: '/assets/sport/sport2.png', artist: '@Johny', title: 'Toy Story', bid: 0.005, category: 'Sport' },
-    { id: 8, image: '/assets/pattern/pattern1.png', artist: '@Johny', title: 'Intersections', bid: 0.005, category: 'Pattern' },
-    { id: 9, image: '/assets/art/art4.png', artist: '@Johny', title: 'Archways', bid: 0.005, category: 'Art' },
+    { id: 1, image: '/assets/Collection1.png', artist: '@Johny', title: 'White Cylinders', bid: 0.005, category: 'Art' },
+    { id: 2, image: '/assets/Collection2.png', artist: '@Johny', title: 'Minaret', bid: 0.005, category: 'Sport' },
+    { id: 3, image: '/assets/Collection3.png', artist: '@Johny', title: 'Gradient Sphere', bid: 0.005, category: 'Photography' },
+    { id: 4, image: '/assets/Collection4.png', artist: '@Johny', title: 'Geometric Play', bid: 0.005, category: 'Art' },
+    { id: 5, image: '/assets/Collection5.png', artist: '@Johny', title: 'Reflection', bid: 0.005, category: 'Photography' },
+    { id: 6, image: '/assets/Collection6.png', artist: '@Johny', title: 'Veiled Light', bid: 0.005, category: 'Art' },
+    { id: 7, image: '/assets/Collection7.png', artist: '@Johny', title: 'Toy Story', bid: 0.005, category: 'Sport' },
+    { id: 8, image: '/assets/Collection8.png', artist: '@Johny', title: 'Intersections', bid: 0.005, category: 'Pattern' },
+    { id: 9, image: '/assets/Collection9.png', artist: '@Johny', title: 'Archways', bid: 0.005, category: 'Art' },
 ];
 
 // --- VARIAN ANIMASI ---
