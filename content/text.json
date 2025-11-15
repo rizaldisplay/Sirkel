@@ -1,0 +1,51 @@
+{
+    "Home": {
+        "welcome_message": "Welcome to our application!",
+        "intro_text": "This is the best place to manage your tasks efficiently.",
+        "get_started": "Get Started",
+        "learn_more": "Learn More"
+    },
+    "Graphs": {
+        "client": "Graph Overview",
+        "broker": "Detailed Graph View",
+        "total": "Export Data"
+    },
+    "Services": {
+        "service_list": "Available Services",
+        "service_description": "Explore the various services we offer to enhance your productivity.",
+        "contact_support": "Contact Support"
+    },
+    "Strategy": {
+        "strategy_overview": "Our Strategy",
+        "mission_statement": "To provide top-notch solutions for your needs.",
+        "vision_statement": "Innovating for a better tomorrow."
+    },
+    "ListClient": {
+        "Groups": [
+            { "id": 1, "name": "FBS MARKET" },
+            { "id": 2, "name": "MONEX" },
+            { "id": 3, "name": "FBS" }
+        ],
+        "Data": [
+            { "id": 1, "name": "I WAYAN ARTAWAN", "broker": "FBS MARKET", "amount": 2000, "rate": 10000, "server": "Fbs-Real4", "pass_investor": "Artawan123", "date_running": "2025-10-08" },
+            { "id": 2, "name": "I WAYAN SUDARMAYASA", "broker": "MONEX", "amount": 2000, "rate": 14000, "server": "Monex Server 5", "pass_investor": "Abcd12345", "date_running": "2025-10-20" },
+            { "id": 3, "name": "I WAYAN SURYANA", "broker": "MONEX", "amount": 2000, "rate": 14000, "server": "Monex Server 5", "pass_investor": "Abcd12345", "date_running": "2025-10-20" },
+            { "id": 4, "name": "DEWI NILAM PUTRI L", "broker": "FBS MARKET", "amount": 2500, "rate": 10000, "server": "", "pass_investor": "Abcd12345", "date_running": "2025-06-23" },
+            { "id": 5, "name": "I NYOMAN SAPUTRA", "broker": "MONEX", "amount": 2000, "rate": 14000, "server": null, "pass_investor": null, "date_running": null },
+            { "id": 6, "name": "I NYOMAN SAPUTRA", "broker": "FBS MARKET", "amount": 2000, "rate": 10000, "server": null, "pass_investor": null, "date_running": null },
+            { "id": 7, "name": "I NYOMAN GEDE PARWATA", "broker": "FBS MARKET", "amount": 2000, "rate": 10000, "server": null, "pass_investor": null, "date_running": null },
+            { "id": 8, "name": "I GUSTI AYU KHANAYA", "broker": "FBS MARKET", "amount": 2000, "rate": 10000, "server": null, "pass_investor": null, "date_running": null },
+            { "id": 9, "name": "YOVAL TANGGUH E O", "broker": "FBS", "amount": 2017, "rate": null, "server": "FBS-Real-10", "pass_investor": "Gigamax", "date_running": "2025-09-04" },
+            { "id": 10, "name": "AULIA LAILATUS", "broker": "FBS", "amount": 2012, "rate": null, "server": "FBS-Real-10", "pass_investor": "Letnanpeng", "date_running": "2025-09-30" },
+            { "id": 11, "name": "DWI JAKA SURYA", "broker": "FBS", "amount": 2000, "rate": null, "server": " FBS-Real-3", "pass_investor": "Sukses_Dem", "date_running": "2025-10-13" },
+            { "id": 12, "name": "IDEWA GEDE", "broker": "FBS", "amount": 2000, "rate": null, "server": "FBS-Real-3", "pass_investor": " Sukses_Wid", "date_running": "2025-10-13" },
+            { "id": 13, "name": "ILMAN ARIEF AZZIZUL H", "broker": "FBS", "amount": 2000, "rate": null, "server": "FBS-Real-3", "pass_investor": " Sukses_Ari", "date_running": "2025-10-14" },
+            { "id": 14, "name": "ANGEL ACALIYA", "broker": "FBS", "amount": 6000, "rate": null, "server": "FBS-Real-3", "pass_investor": " Sukses_Angel1", "date_running": "2025-10-20" }
+        ]
+    },
+    "Footer": {
+        "contact_us": "Contact Us",
+        "privacy_policy": "Privacy Policy",
+        "terms_of_service": "Terms of Service"
+    }
+}
